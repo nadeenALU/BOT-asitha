@@ -19,7 +19,7 @@ AUTO_STICKER: process.env.AUTO_STICKER === undefined ? "true" : process.env.AUTO
 ANTI_BAD: process.env.ANTI_BAD === undefined ? "false" : process.env.ANTI_BAD,
 ANTI_LINK: process.env.ANTI_LINK === undefined ? "true" : process.env.ANTI_LINK,
 ANTI_CALL: process.env.ANTI_CALL === undefined ? "true" : process.env.ANTI_CALL,    
-DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '94716769285' : process.env.DELETEMSGSENDTO,
+DELETEMSGSENDTO : process.env.DELETEMSGSENDTO === undefined ? '94711451319' : process.env.DELETEMSGSENDTO,
 ANTI_DELETE : process.env.ANTI_DELETE === undefined ? 'true' : process.env.ANTI_DELETE,
 ANTI_BOT: process.env.ANTI_BOT === undefined ? "true" : process.env.ANTI_BOT,
 WELCOME_GOODBYE: process.env.WELCOME_GOODBYE === undefined ? "false" : process.env.WELCOME_GOODBYE,
